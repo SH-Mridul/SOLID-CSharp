@@ -1,0 +1,14 @@
+F:\SOLID\SOLID-CSharp\src\SOLID\SOLIDCSharp\bin\Debug\net8.0\OCPLibrary.exe
+F:\SOLID\SOLID-CSharp\src\SOLID\SOLIDCSharp\bin\Debug\net8.0\OCPLibrary.deps.json
+F:\SOLID\SOLID-CSharp\src\SOLID\SOLIDCSharp\bin\Debug\net8.0\OCPLibrary.runtimeconfig.json
+F:\SOLID\SOLID-CSharp\src\SOLID\SOLIDCSharp\bin\Debug\net8.0\OCPLibrary.dll
+F:\SOLID\SOLID-CSharp\src\SOLID\SOLIDCSharp\bin\Debug\net8.0\OCPLibrary.pdb
+F:\SOLID\SOLID-CSharp\src\SOLID\SOLIDCSharp\obj\Debug\net8.0\OCPLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\SOLID\SOLID-CSharp\src\SOLID\SOLIDCSharp\obj\Debug\net8.0\OCPLibrary.AssemblyInfoInputs.cache
+F:\SOLID\SOLID-CSharp\src\SOLID\SOLIDCSharp\obj\Debug\net8.0\OCPLibrary.AssemblyInfo.cs
+F:\SOLID\SOLID-CSharp\src\SOLID\SOLIDCSharp\obj\Debug\net8.0\OCPLibrary.csproj.CoreCompileInputs.cache
+F:\SOLID\SOLID-CSharp\src\SOLID\SOLIDCSharp\obj\Debug\net8.0\OCPLibrary.dll
+F:\SOLID\SOLID-CSharp\src\SOLID\SOLIDCSharp\obj\Debug\net8.0\refint\OCPLibrary.dll
+F:\SOLID\SOLID-CSharp\src\SOLID\SOLIDCSharp\obj\Debug\net8.0\OCPLibrary.pdb
+F:\SOLID\SOLID-CSharp\src\SOLID\SOLIDCSharp\obj\Debug\net8.0\OCPLibrary.genruntimeconfig.cache
+F:\SOLID\SOLID-CSharp\src\SOLID\SOLIDCSharp\obj\Debug\net8.0\ref\OCPLibrary.dll

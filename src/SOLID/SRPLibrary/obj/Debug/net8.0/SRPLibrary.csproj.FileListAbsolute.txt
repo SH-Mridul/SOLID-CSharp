@@ -1,0 +1,14 @@
+F:\SOLID\SOLID-CSharp\src\SOLID\SRPLibrary\bin\Debug\net8.0\SRPLibrary.exe
+F:\SOLID\SOLID-CSharp\src\SOLID\SRPLibrary\bin\Debug\net8.0\SRPLibrary.deps.json
+F:\SOLID\SOLID-CSharp\src\SOLID\SRPLibrary\bin\Debug\net8.0\SRPLibrary.runtimeconfig.json
+F:\SOLID\SOLID-CSharp\src\SOLID\SRPLibrary\bin\Debug\net8.0\SRPLibrary.dll
+F:\SOLID\SOLID-CSharp\src\SOLID\SRPLibrary\bin\Debug\net8.0\SRPLibrary.pdb
+F:\SOLID\SOLID-CSharp\src\SOLID\SRPLibrary\obj\Debug\net8.0\SRPLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\SOLID\SOLID-CSharp\src\SOLID\SRPLibrary\obj\Debug\net8.0\SRPLibrary.AssemblyInfoInputs.cache
+F:\SOLID\SOLID-CSharp\src\SOLID\SRPLibrary\obj\Debug\net8.0\SRPLibrary.AssemblyInfo.cs
+F:\SOLID\SOLID-CSharp\src\SOLID\SRPLibrary\obj\Debug\net8.0\SRPLibrary.csproj.CoreCompileInputs.cache
+F:\SOLID\SOLID-CSharp\src\SOLID\SRPLibrary\obj\Debug\net8.0\SRPLibrary.dll
+F:\SOLID\SOLID-CSharp\src\SOLID\SRPLibrary\obj\Debug\net8.0\refint\SRPLibrary.dll
+F:\SOLID\SOLID-CSharp\src\SOLID\SRPLibrary\obj\Debug\net8.0\SRPLibrary.pdb
+F:\SOLID\SOLID-CSharp\src\SOLID\SRPLibrary\obj\Debug\net8.0\SRPLibrary.genruntimeconfig.cache
+F:\SOLID\SOLID-CSharp\src\SOLID\SRPLibrary\obj\Debug\net8.0\ref\SRPLibrary.dll
