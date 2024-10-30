@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SRPLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f88e231a5bc1760beccf22dd6a272ac08b68482")]
 [assembly: System.Reflection.AssemblyProductAttribute("SRPLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SRPLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

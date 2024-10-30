@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OCPLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f88e231a5bc1760beccf22dd6a272ac08b68482")]
 [assembly: System.Reflection.AssemblyProductAttribute("OCPLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OCPLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

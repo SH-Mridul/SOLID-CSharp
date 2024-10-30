@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "F:\\SOLID\\SOLID-CSharp\\src\\SOLID\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F427D30E-9813-465F-BC81-606258166D2C}|LSP\\LSP.csproj|f:\\solid\\solid-csharp\\src\\solid\\lsp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F427D30E-9813-465F-BC81-606258166D2C}|LSP\\LSP.csproj|solutionrelative:lsp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F427D30E-9813-465F-BC81-606258166D2C}|LSP\\LSP.csproj|f:\\solid\\solid-csharp\\src\\solid\\lsp\\imanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F427D30E-9813-465F-BC81-606258166D2C}|LSP\\LSP.csproj|solutionrelative:lsp\\imanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F427D30E-9813-465F-BC81-606258166D2C}|LSP\\LSP.csproj|f:\\solid\\solid-csharp\\src\\solid\\lsp\\ceo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F427D30E-9813-465F-BC81-606258166D2C}|LSP\\LSP.csproj|solutionrelative:lsp\\ceo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F427D30E-9813-465F-BC81-606258166D2C}|LSP\\LSP.csproj|f:\\solid\\solid-csharp\\src\\solid\\lsp\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F427D30E-9813-465F-BC81-606258166D2C}|LSP\\LSP.csproj|solutionrelative:lsp\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F427D30E-9813-465F-BC81-606258166D2C}|LSP\\LSP.csproj|f:\\solid\\solid-csharp\\src\\solid\\lsp\\imanaged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F427D30E-9813-465F-BC81-606258166D2C}|LSP\\LSP.csproj|solutionrelative:lsp\\imanaged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F427D30E-9813-465F-BC81-606258166D2C}|LSP\\LSP.csproj|f:\\solid\\solid-csharp\\src\\solid\\lsp\\baseemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F427D30E-9813-465F-BC81-606258166D2C}|LSP\\LSP.csproj|solutionrelative:lsp\\baseemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F427D30E-9813-465F-BC81-606258166D2C}|LSP\\LSP.csproj|f:\\solid\\solid-csharp\\src\\solid\\lsp\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F427D30E-9813-465F-BC81-606258166D2C}|LSP\\LSP.csproj|solutionrelative:lsp\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F427D30E-9813-465F-BC81-606258166D2C}|LSP\\LSP.csproj|f:\\solid\\solid-csharp\\src\\solid\\lsp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F427D30E-9813-465F-BC81-606258166D2C}|LSP\\LSP.csproj|solutionrelative:lsp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0EEA648-AF73-4807-9612-14F9A3952586}|SRPLibrary\\SRPLibrary.csproj|f:\\solid\\solid-csharp\\src\\solid\\srplibrary\\accountgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0EEA648-AF73-4807-9612-14F9A3952586}|SRPLibrary\\SRPLibrary.csproj|solutionrelative:srplibrary\\accountgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D0EEA648-AF73-4807-9612-14F9A3952586}|SRPLibrary\\SRPLibrary.csproj|f:\\solid\\solid-csharp\\src\\solid\\srplibrary\\standardmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0EEA648-AF73-4807-9612-14F9A3952586}|SRPLibrary\\SRPLibrary.csproj|solutionrelative:srplibrary\\standardmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D0EEA648-AF73-4807-9612-14F9A3952586}|SRPLibrary\\SRPLibrary.csproj|f:\\solid\\solid-csharp\\src\\solid\\srplibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0EEA648-AF73-4807-9612-14F9A3952586}|SRPLibrary\\SRPLibrary.csproj|solutionrelative:srplibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0EEA648-AF73-4807-9612-14F9A3952586}|SRPLibrary\\SRPLibrary.csproj|f:\\solid\\solid-csharp\\src\\solid\\srplibrary\\accountgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0EEA648-AF73-4807-9612-14F9A3952586}|SRPLibrary\\SRPLibrary.csproj|solutionrelative:srplibrary\\accountgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0EEA648-AF73-4807-9612-14F9A3952586}|SRPLibrary\\SRPLibrary.csproj|f:\\solid\\solid-csharp\\src\\solid\\srplibrary\\personvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,7 +106,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 133,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,33 +118,124 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseEmployee.cs",
+              "DocumentMoniker": "F:\\SOLID\\SOLID-CSharp\\src\\SOLID\\LSP\\BaseEmployee.cs",
+              "RelativeDocumentMoniker": "LSP\\BaseEmployee.cs",
+              "ToolTip": "F:\\SOLID\\SOLID-CSharp\\src\\SOLID\\LSP\\BaseEmployee.cs",
+              "RelativeToolTip": "LSP\\BaseEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T05:05:47.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IManaged.cs",
+              "DocumentMoniker": "F:\\SOLID\\SOLID-CSharp\\src\\SOLID\\LSP\\IManaged.cs",
+              "RelativeDocumentMoniker": "LSP\\IManaged.cs",
+              "ToolTip": "F:\\SOLID\\SOLID-CSharp\\src\\SOLID\\LSP\\IManaged.cs",
+              "RelativeToolTip": "LSP\\IManaged.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T05:00:53.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IManager.cs",
+              "DocumentMoniker": "F:\\SOLID\\SOLID-CSharp\\src\\SOLID\\LSP\\IManager.cs",
+              "RelativeDocumentMoniker": "LSP\\IManager.cs",
+              "ToolTip": "F:\\SOLID\\SOLID-CSharp\\src\\SOLID\\LSP\\IManager.cs",
+              "RelativeToolTip": "LSP\\IManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T04:53:47.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "F:\\SOLID\\SOLID-CSharp\\src\\SOLID\\LSP\\IEmployee.cs",
+              "RelativeDocumentMoniker": "LSP\\IEmployee.cs",
+              "ToolTip": "F:\\SOLID\\SOLID-CSharp\\src\\SOLID\\LSP\\IEmployee.cs",
+              "RelativeToolTip": "LSP\\IEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T04:52:41.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CEO.cs",
+              "DocumentMoniker": "F:\\SOLID\\SOLID-CSharp\\src\\SOLID\\LSP\\CEO.cs",
+              "RelativeDocumentMoniker": "LSP\\CEO.cs",
+              "ToolTip": "F:\\SOLID\\SOLID-CSharp\\src\\SOLID\\LSP\\CEO.cs",
+              "RelativeToolTip": "LSP\\CEO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T02:53:06.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "F:\\SOLID\\SOLID-CSharp\\src\\SOLID\\LSP\\Manager.cs",
+              "RelativeDocumentMoniker": "LSP\\Manager.cs",
+              "ToolTip": "F:\\SOLID\\SOLID-CSharp\\src\\SOLID\\LSP\\Manager.cs",
+              "RelativeToolTip": "LSP\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T02:44:24.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "F:\\SOLID\\SOLID-CSharp\\src\\SOLID\\LSP\\Employee.cs",
+              "RelativeDocumentMoniker": "LSP\\Employee.cs",
+              "ToolTip": "F:\\SOLID\\SOLID-CSharp\\src\\SOLID\\LSP\\Employee.cs",
+              "RelativeToolTip": "LSP\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T02:44:04.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SOLID\\SOLID-CSharp\\src\\SOLID\\LSP\\Program.cs",
+              "RelativeDocumentMoniker": "LSP\\Program.cs",
+              "ToolTip": "F:\\SOLID\\SOLID-CSharp\\src\\SOLID\\LSP\\Program.cs",
+              "RelativeToolTip": "LSP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T02:41:35.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "AccountGenerator.cs",
               "DocumentMoniker": "F:\\SOLID\\SOLID-CSharp\\src\\SOLID\\SRPLibrary\\AccountGenerator.cs",
               "RelativeDocumentMoniker": "SRPLibrary\\AccountGenerator.cs",
               "ToolTip": "F:\\SOLID\\SOLID-CSharp\\src\\SOLID\\SRPLibrary\\AccountGenerator.cs",
               "RelativeToolTip": "SRPLibrary\\AccountGenerator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-26T06:48:51.69Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PersonValidator.cs",
-              "DocumentMoniker": "F:\\SOLID\\SOLID-CSharp\\src\\SOLID\\SRPLibrary\\PersonValidator.cs",
-              "RelativeDocumentMoniker": "SRPLibrary\\PersonValidator.cs",
-              "ToolTip": "F:\\SOLID\\SOLID-CSharp\\src\\SOLID\\SRPLibrary\\PersonValidator.cs",
-              "RelativeToolTip": "SRPLibrary\\PersonValidator.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T06:39:24.922Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "PersonDataCapture.cs",
               "DocumentMoniker": "F:\\SOLID\\SOLID-CSharp\\src\\SOLID\\SRPLibrary\\PersonDataCapture.cs",
               "RelativeDocumentMoniker": "SRPLibrary\\PersonDataCapture.cs",
@@ -120,12 +243,11 @@
               "RelativeToolTip": "SRPLibrary\\PersonDataCapture.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T06:34:42.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T06:34:42.529Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "StandardMessages.cs",
               "DocumentMoniker": "F:\\SOLID\\SOLID-CSharp\\src\\SOLID\\SRPLibrary\\StandardMessages.cs",
               "RelativeDocumentMoniker": "SRPLibrary\\StandardMessages.cs",
@@ -133,12 +255,11 @@
               "RelativeToolTip": "SRPLibrary\\StandardMessages.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T06:27:57.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T06:27:57.709Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "Person.cs",
               "DocumentMoniker": "F:\\SOLID\\SOLID-CSharp\\src\\SOLID\\SRPLibrary\\Person.cs",
               "RelativeDocumentMoniker": "SRPLibrary\\Person.cs",
@@ -146,12 +267,23 @@
               "RelativeToolTip": "SRPLibrary\\Person.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T05:33:26.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T05:33:26.241Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
+              "Title": "PersonValidator.cs",
+              "DocumentMoniker": "F:\\SOLID\\SOLID-CSharp\\src\\SOLID\\SRPLibrary\\PersonValidator.cs",
+              "RelativeDocumentMoniker": "SRPLibrary\\PersonValidator.cs",
+              "ToolTip": "F:\\SOLID\\SOLID-CSharp\\src\\SOLID\\SRPLibrary\\PersonValidator.cs",
+              "RelativeToolTip": "SRPLibrary\\PersonValidator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T06:39:24.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\SOLID\\SOLID-CSharp\\src\\SOLID\\SRPLibrary\\Program.cs",
               "RelativeDocumentMoniker": "SRPLibrary\\Program.cs",
@@ -159,12 +291,11 @@
               "RelativeToolTip": "SRPLibrary\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T02:40:21.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T02:40:21.369Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "ManagerAccounts.cs",
               "DocumentMoniker": "F:\\SOLID\\SOLID-CSharp\\src\\SOLID\\SOLIDCSharp\\Accounts\\ManagerAccounts.cs",
               "RelativeDocumentMoniker": "SOLIDCSharp\\Accounts\\ManagerAccounts.cs",
@@ -172,12 +303,11 @@
               "RelativeToolTip": "SOLIDCSharp\\Accounts\\ManagerAccounts.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T02:35:26.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T02:35:26.913Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "IAccounts.cs",
               "DocumentMoniker": "F:\\SOLID\\SOLID-CSharp\\src\\SOLID\\SOLIDCSharp\\Accounts\\IAccounts.cs",
               "RelativeDocumentMoniker": "SOLIDCSharp\\Accounts\\IAccounts.cs",
@@ -185,12 +315,11 @@
               "RelativeToolTip": "SOLIDCSharp\\Accounts\\IAccounts.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T02:35:25.077Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T02:35:25.077Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "ExecutiveAccounts.cs",
               "DocumentMoniker": "F:\\SOLID\\SOLID-CSharp\\src\\SOLID\\SOLIDCSharp\\Accounts\\ExecutiveAccounts.cs",
               "RelativeDocumentMoniker": "SOLIDCSharp\\Accounts\\ExecutiveAccounts.cs",
@@ -198,12 +327,11 @@
               "RelativeToolTip": "SOLIDCSharp\\Accounts\\ExecutiveAccounts.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T02:35:23.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T02:35:23.308Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "Accounts.cs",
               "DocumentMoniker": "F:\\SOLID\\SOLID-CSharp\\src\\SOLID\\SOLIDCSharp\\Accounts\\Accounts.cs",
               "RelativeDocumentMoniker": "SOLIDCSharp\\Accounts\\Accounts.cs",
@@ -211,12 +339,11 @@
               "RelativeToolTip": "SOLIDCSharp\\Accounts\\Accounts.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T02:35:19.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T02:35:19.598Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "ExecutiveModel.cs",
               "DocumentMoniker": "F:\\SOLID\\SOLID-CSharp\\src\\SOLID\\SOLIDCSharp\\Applicants\\ExecutiveModel.cs",
               "RelativeDocumentMoniker": "SOLIDCSharp\\Applicants\\ExecutiveModel.cs",
@@ -224,12 +351,11 @@
               "RelativeToolTip": "SOLIDCSharp\\Applicants\\ExecutiveModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T02:35:07.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T02:35:07.237Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "PersonModel.cs",
               "DocumentMoniker": "F:\\SOLID\\SOLID-CSharp\\src\\SOLID\\SOLIDCSharp\\Applicants\\PersonModel.cs",
               "RelativeDocumentMoniker": "SOLIDCSharp\\Applicants\\PersonModel.cs",
@@ -237,12 +363,11 @@
               "RelativeToolTip": "SOLIDCSharp\\Applicants\\PersonModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T02:35:15.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T02:35:15.936Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "EmployeeModel.cs",
               "DocumentMoniker": "F:\\SOLID\\SOLID-CSharp\\src\\SOLID\\SOLIDCSharp\\EmployeeModel.cs",
               "RelativeDocumentMoniker": "SOLIDCSharp\\EmployeeModel.cs",
@@ -250,12 +375,11 @@
               "RelativeToolTip": "SOLIDCSharp\\EmployeeModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T02:35:02.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T02:35:02.667Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\SOLID\\SOLID-CSharp\\src\\SOLID\\SOLIDCSharp\\Program.cs",
               "RelativeDocumentMoniker": "SOLIDCSharp\\Program.cs",
@@ -263,12 +387,11 @@
               "RelativeToolTip": "SOLIDCSharp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T02:34:56.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T02:34:56.182Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "IApplicantModel.cs",
               "DocumentMoniker": "F:\\SOLID\\SOLID-CSharp\\src\\SOLID\\SOLIDCSharp\\Applicants\\IApplicantModel.cs",
               "RelativeDocumentMoniker": "SOLIDCSharp\\Applicants\\IApplicantModel.cs",
@@ -276,12 +399,11 @@
               "RelativeToolTip": "SOLIDCSharp\\Applicants\\IApplicantModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T02:35:11.56Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T02:35:11.56Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 23,
               "Title": "ManagerModel.cs",
               "DocumentMoniker": "F:\\SOLID\\SOLID-CSharp\\src\\SOLID\\SOLIDCSharp\\Applicants\\ManagerModel.cs",
               "RelativeDocumentMoniker": "SOLIDCSharp\\Applicants\\ManagerModel.cs",
@@ -289,8 +411,7 @@
               "RelativeToolTip": "SOLIDCSharp\\Applicants\\ManagerModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T02:35:13.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T02:35:13.749Z"
             }
           ]
         }
