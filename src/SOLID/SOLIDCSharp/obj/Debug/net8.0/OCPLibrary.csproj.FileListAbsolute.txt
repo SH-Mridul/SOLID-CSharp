@@ -12,3 +12,4 @@ F:\SOLID\SOLID-CSharp\src\SOLID\SOLIDCSharp\obj\Debug\net8.0\refint\OCPLibrary.d
 F:\SOLID\SOLID-CSharp\src\SOLID\SOLIDCSharp\obj\Debug\net8.0\OCPLibrary.pdb
 F:\SOLID\SOLID-CSharp\src\SOLID\SOLIDCSharp\obj\Debug\net8.0\OCPLibrary.genruntimeconfig.cache
 F:\SOLID\SOLID-CSharp\src\SOLID\SOLIDCSharp\obj\Debug\net8.0\ref\OCPLibrary.dll
+F:\SOLID\SOLID-CSharp\src\SOLID\SOLIDCSharp\obj\Debug\net8.0\OCPLibrary.sourcelink.json

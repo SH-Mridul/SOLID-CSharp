@@ -12,3 +12,4 @@ F:\SOLID\SOLID-CSharp\src\SOLID\SRPLibrary\obj\Debug\net8.0\refint\SRPLibrary.dl
 F:\SOLID\SOLID-CSharp\src\SOLID\SRPLibrary\obj\Debug\net8.0\SRPLibrary.pdb
 F:\SOLID\SOLID-CSharp\src\SOLID\SRPLibrary\obj\Debug\net8.0\SRPLibrary.genruntimeconfig.cache
 F:\SOLID\SOLID-CSharp\src\SOLID\SRPLibrary\obj\Debug\net8.0\ref\SRPLibrary.dll
+F:\SOLID\SOLID-CSharp\src\SOLID\SRPLibrary\obj\Debug\net8.0\SRPLibrary.sourcelink.json

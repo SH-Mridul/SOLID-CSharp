@@ -1,0 +1,15 @@
+F:\SOLID\SOLID-CSharp\src\SOLID\DI\bin\Debug\net8.0\DI.exe
+F:\SOLID\SOLID-CSharp\src\SOLID\DI\bin\Debug\net8.0\DI.deps.json
+F:\SOLID\SOLID-CSharp\src\SOLID\DI\bin\Debug\net8.0\DI.runtimeconfig.json
+F:\SOLID\SOLID-CSharp\src\SOLID\DI\bin\Debug\net8.0\DI.dll
+F:\SOLID\SOLID-CSharp\src\SOLID\DI\bin\Debug\net8.0\DI.pdb
+F:\SOLID\SOLID-CSharp\src\SOLID\DI\obj\Debug\net8.0\DI.GeneratedMSBuildEditorConfig.editorconfig
+F:\SOLID\SOLID-CSharp\src\SOLID\DI\obj\Debug\net8.0\DI.AssemblyInfoInputs.cache
+F:\SOLID\SOLID-CSharp\src\SOLID\DI\obj\Debug\net8.0\DI.AssemblyInfo.cs
+F:\SOLID\SOLID-CSharp\src\SOLID\DI\obj\Debug\net8.0\DI.csproj.CoreCompileInputs.cache
+F:\SOLID\SOLID-CSharp\src\SOLID\DI\obj\Debug\net8.0\DI.sourcelink.json
+F:\SOLID\SOLID-CSharp\src\SOLID\DI\obj\Debug\net8.0\DI.dll
+F:\SOLID\SOLID-CSharp\src\SOLID\DI\obj\Debug\net8.0\refint\DI.dll
+F:\SOLID\SOLID-CSharp\src\SOLID\DI\obj\Debug\net8.0\DI.pdb
+F:\SOLID\SOLID-CSharp\src\SOLID\DI\obj\Debug\net8.0\DI.genruntimeconfig.cache
+F:\SOLID\SOLID-CSharp\src\SOLID\DI\obj\Debug\net8.0\ref\DI.dll
